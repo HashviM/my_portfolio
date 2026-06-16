@@ -23,7 +23,7 @@ It showcases my **skills, projects, timeline, and contact information** as I gro
 ---
 
 ## 🌐 Live Demo  
-🔗 [View My Portfolio](https://github.com/HashviM/my_portfolio)  
+🔗 [View My Portfolio](https://hashvim.github.io/my_portfolio/)  
 
 ---
 
